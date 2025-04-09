@@ -70,9 +70,11 @@ We at Letopa have put an insane amount of work into this release. Without furthe
 | Linux   | x86          | ✅          | ❌                                   |
 | Linux   | ARM64        | ❌          | **N/A**                             |
 
-**At this time, we have no plans to support any other platforms.**
+**At this time, we have no plans to support any other platforms.** This is due to current lack of resources and machines on these operating systems.
 
 # System Requirements (Minimum)
+
+You can also test your hardware by running the Benchmark Test [here](https://github.com/Letopa-Interactive/The-Dark-Forest-Enhanced-Edition/releases/tag/benchmark-v1.0.0).
 
 | OS              | CPU                      | GPU | RAM  | Dedicated Space |
 | --------------- | ------------------------ | --- | ---- | --------------- |
