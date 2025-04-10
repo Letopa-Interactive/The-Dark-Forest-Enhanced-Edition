@@ -87,7 +87,7 @@ You can also test your hardware by running the Benchmark Test [here](https://git
 
 | OS              | CPU                      | GPU | RAM      | Dedicated Space |
 | --------------- | ------------------------ | --- | -------- | --------------- |
-| Windows (x86)   | Any CPU @**2.5** Ghz+    | Any | **8** GB | ~12 MB          |
+| Windows (x86)   | Any CPU @**1.5** Ghz+    | Any | **8** GB | ~12 MB          |
 | Windows (ARM64) | Any Snapdragon CPU       | Any | **8** GB | ~11 MB          |
 | MacOS (ARM64)   | Any Apple *M* Series CPU | Any | 8 GB     | ~11 MB          |
-| Linux (x86)     | Any CPU @**2.5** Ghz+    | Any | **8** GB | ~98 MB          |
+| Linux (x86)     | Any CPU @**1.5** Ghz+    | Any | **8** GB | ~98 MB          |
