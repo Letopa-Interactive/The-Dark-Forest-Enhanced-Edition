@@ -1,7 +1,7 @@
 # The-Dark-Forest-Enhanced-Edition
 
 ![CoverArt](https://github.com/Letopa-Interactive/The-Dark-Forest-Enhanced-Edition/blob/main/CoverArt.png)
-
+*Cover art by Grace Porcaro
 The Dark Forest Enhanced Edition is an upcoming native PC port of the original text-based adventure game released in 2022, out now. 
 Running on a brand new, in house engine we call LetopaCore, we have overhauled every single aspect of the game. No line of code has been left untouched.
 # Features:
